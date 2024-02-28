@@ -1,7 +1,7 @@
 # Курсовой проект "Money Transfer"
 
 ## 1. Код frontend доступен по [ссылке](https://github.com/NewAge1979/MoneyTransfer-Frontend/tree/38e3cca6d952e7b5f2e03a0ef2af409b760a99d5).
-## 2. Код backend доступен по [ссылке](https://github.com/NewAge1979/MoneyTransfer-Backend/tree/e66650d354ec938893844342dcc2c0edffd31613).
+## 2. Код backend доступен по [ссылке](https://github.com/NewAge1979/MoneyTransfer-Backend/tree/8d4d17645173c23c1939b3199dcdba0ddb553b31).
 
 ## Для клонирования проект на локальный компьютер необходимо последовательно выполнить следующие команды:
 #### `git clone https://github.com/NewAge1979/MoneyTransfer.git`
